@@ -2,7 +2,7 @@
 export default function Footer() {
     return(
         <footer className="footer navbar .pb-0 .mb-0" id="Contact-Me">
-            <h3 className="col-md-3" >Contact Me</h3>
+            <h3 className="col-md-3" >My Information</h3>
             <ul className="nav justify-content-end">
                 <li className="nav-item"> 
                     <a href="skchung93@gmail.com" target="_blank" className="nav-link">Email</a> 
